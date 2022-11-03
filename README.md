@@ -1,8 +1,9 @@
-#Overview of the analysis
+# Overview of the analysis
 	The purpose of the analysis of this data is to determine whether to target a specific gender for future marketing. 
-#Results
+# Results
 
-##Gender breakdown
+## Gender breakdown
+
 	 ![Gender Breakdown](https://user-images.githubusercontent.com/109701875/199646954-8ab79030-2c2f-4462-832a-0032d3af7572.PNG)
 
 As can be seen above, the majority of Citibike users are male.
@@ -10,7 +11,7 @@ As can be seen above, the majority of Citibike users are male.
 
 ![Checkoout](https://user-images.githubusercontent.com/109701875/199646972-95e9cf52-e0e2-40aa-804c-e14c342a479a.PNG)
 
-##Overall Checkout Times
+## Overall Checkout Times
   
 Users tend to check out bikes for 15 minutes at a time with some usage out to an hour.
   
@@ -37,6 +38,6 @@ The trends seen above are seen in both males and females though males are more l
 The vast majority of usage is among subscribers rather than onetime customers. 
 
 
-#Summary
+# Summary
 These results show that most of Citibike’s users are male and working. Indeed, many use the bike to commute to and from work. As such, advertising targeting men as an alternative method of commuting and exercise may be successful.  Two additional visualizations that would be helpful would be usage in colder months of the year to know if usage is seasonal and whether most subscribers were onetime users previously to know if Citibike should continue to allow onetime use.
 [link to dashboard] https://public.tableau.com/views/bikesharingchallenge_16673531225420/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
